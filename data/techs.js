@@ -1,0 +1,1 @@
+export const tech=[{title:"HTML5",percent:95,id:0,icon:"fa-brands fa-html5"},{title:"CSS3",percent:99,id:1,icon:"fa-brands fa-css3-alt"},{title:"JavaScript",percent:88,id:2,icon:"fa-brands fa-square-js"},{title:"Python",percent:70,id:3,icon:"fa-brands fa-python"},{title:"SQL",percent:80,id:4,icon:"fa-solid fa-database"},];
