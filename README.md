@@ -1,6 +1,6 @@
 # ✩ Portfólio 🧙🏼‍♂️✩
 
- ## 🛰 : [arthurclaro.github.io/Portfolio-2.0/](https://arthurclaro.github.io/Portfolio-2.0/)
+ ## 🛸 : [arthurclaro.github.io/Portfolio-2.0/](https://arthurclaro.github.io/Portfolio-2.0/)
 
 Lhes apresento meu novo Portfólio ♠︎ 100% finalizado ! Com uma qualidade de código consideravelmente superior em comparação ao projeto anterior.
 
