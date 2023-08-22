@@ -16,4 +16,4 @@ Lhes apresento meu novo Portfólio ♠︎ 100% finalizado ! Com uma qualidade de
 
 
 
-![Captura de tela 2023-05-08 120818](https://github.com/ArthurClaro/Portfolio-2.0/assets/124170421/040cfd71-49ef-4177-aa14-5ca55d5bdbaf)
+![Captura de tela 2023-05-08 120818](https://github.com/ArthurClaro/Portfolio-2.0/assets/124170421/e5dde5ff-a719-478b-8499-4ac274778b97)
