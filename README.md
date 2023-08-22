@@ -11,7 +11,9 @@ Lhes apresento meu novo Portfólio ♠︎ 100% finalizado ! Com uma qualidade de
 ♞ Techs :
 
 ☆ HTML5
+<br>
 ☆ CSS3 ☞ SASS
+<br>
 ☆ JAVASCRIPT
 
 
