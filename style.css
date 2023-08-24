@@ -2167,6 +2167,65 @@ span:hover {
   }
 }
 
+#e_commerce_link6 {
+  font-family: "teste1";
+  font-size: 22px;
+  font-weight: 600;
+  position: absolute;
+  top: 178px;
+  left: 5px;
+  text-decoration: none;
+  display: flex;
+  border-radius: 17px;
+  border: 2px solid white;
+  padding: 17px 0px 4px 10px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: rgb(0, 0, 0);
+  background-image: linear-gradient(45deg, #fcfcfc 0%, rgb(255, 0, 132) 51%, #000000 100%);
+  -moz-user-select: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+#e_commerce_link6 div {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  padding: 4px 6px;
+  border-radius: 17px;
+  height: 12px;
+  width: 43px;
+  position: relative;
+  left: -12px;
+  top: -10px;
+}
+#e_commerce_link6 div i {
+  color: black;
+  font-size: 13.3px;
+}
+#e_commerce_link6:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
+@media (max-width: 426px) {
+  #e_commerce_link6 {
+    top: 399px;
+  }
+}
+@media (max-width: 376px) {
+  #e_commerce_link6 {
+    top: 515px;
+  }
+}
+@media (max-width: 320px) {
+  #e_commerce_link6 {
+    top: 739px;
+  }
+}
+
 .splide__pagination__page {
   background-color: aqua !important;
   filter: brightness(15.5);
