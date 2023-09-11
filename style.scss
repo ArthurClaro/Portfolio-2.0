@@ -2043,6 +2043,9 @@ span:hover {
 #e_commerce_link6 {
     @include btnProject($back: rgb(255, 0, 132))
 }
+#e_commerce_link7 {
+    @include btnProject($back: rgb(0, 0, 0))
+}
 
 .splide__pagination__page {
     background-color: aqua !important;
