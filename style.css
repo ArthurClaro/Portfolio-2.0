@@ -1829,7 +1829,7 @@ span:hover {
   transition: 0.5s;
   background-size: 200% auto;
   color: rgb(0, 0, 0);
-  background-image: linear-gradient(45deg, #fcfcfc 0%, rgb(140, 0, 255) 51%, #000000 100%);
+  background-image: linear-gradient(45deg, #fcfcfc 0%, rgb(0, 249, 17) 51%, #000000 100%);
   -moz-user-select: none;
   user-select: none;
   -webkit-user-select: none;
@@ -1868,6 +1868,183 @@ span:hover {
 }
 @media (max-width: 320px) {
   #e_commerce_link0 {
+    top: 739px;
+  }
+}
+
+#e_commerce_link8 {
+  font-family: "teste1";
+  font-size: 22px;
+  font-weight: 600;
+  position: absolute;
+  top: 178px;
+  left: 5px;
+  text-decoration: none;
+  display: flex;
+  border-radius: 17px;
+  border: 2px solid white;
+  padding: 17px 0px 4px 10px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: rgb(0, 0, 0);
+  background-image: linear-gradient(45deg, #fcfcfc 0%, aqua 51%, #000000 100%);
+  -moz-user-select: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+#e_commerce_link8 div {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  padding: 4px 6px;
+  border-radius: 17px;
+  height: 12px;
+  width: 43px;
+  position: relative;
+  left: -12px;
+  top: -10px;
+}
+#e_commerce_link8 div i {
+  color: black;
+  font-size: 13.3px;
+}
+#e_commerce_link8:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
+@media (max-width: 426px) {
+  #e_commerce_link8 {
+    top: 399px;
+  }
+}
+@media (max-width: 376px) {
+  #e_commerce_link8 {
+    top: 515px;
+  }
+}
+@media (max-width: 320px) {
+  #e_commerce_link8 {
+    top: 739px;
+  }
+}
+
+#e_commerce_link9 {
+  font-family: "teste1";
+  font-size: 22px;
+  font-weight: 600;
+  position: absolute;
+  top: 178px;
+  left: 5px;
+  text-decoration: none;
+  display: flex;
+  border-radius: 17px;
+  border: 2px solid white;
+  padding: 17px 0px 4px 10px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: rgb(0, 0, 0);
+  background-image: linear-gradient(45deg, #fcfcfc 0%, rgb(0, 249, 149) 51%, #000000 100%);
+  -moz-user-select: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+#e_commerce_link9 div {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  padding: 4px 6px;
+  border-radius: 17px;
+  height: 12px;
+  width: 43px;
+  position: relative;
+  left: -12px;
+  top: -10px;
+}
+#e_commerce_link9 div i {
+  color: black;
+  font-size: 13.3px;
+}
+#e_commerce_link9:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
+@media (max-width: 426px) {
+  #e_commerce_link9 {
+    top: 399px;
+  }
+}
+@media (max-width: 376px) {
+  #e_commerce_link9 {
+    top: 515px;
+  }
+}
+@media (max-width: 320px) {
+  #e_commerce_link9 {
+    top: 739px;
+  }
+}
+
+#e_commerce_link10 {
+  font-family: "teste1";
+  font-size: 22px;
+  font-weight: 600;
+  position: absolute;
+  top: 178px;
+  left: 5px;
+  text-decoration: none;
+  display: flex;
+  border-radius: 17px;
+  border: 2px solid white;
+  padding: 17px 0px 4px 10px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: rgb(0, 0, 0);
+  background-image: linear-gradient(45deg, #fcfcfc 0%, rgba(0, 249, 149, 0.746) 51%, #000000 100%);
+  -moz-user-select: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+#e_commerce_link10 div {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  padding: 4px 6px;
+  border-radius: 17px;
+  height: 12px;
+  width: 43px;
+  position: relative;
+  left: -12px;
+  top: -10px;
+}
+#e_commerce_link10 div i {
+  color: black;
+  font-size: 13.3px;
+}
+#e_commerce_link10:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
+@media (max-width: 426px) {
+  #e_commerce_link10 {
+    top: 399px;
+  }
+}
+@media (max-width: 376px) {
+  #e_commerce_link10 {
+    top: 515px;
+  }
+}
+@media (max-width: 320px) {
+  #e_commerce_link10 {
     top: 739px;
   }
 }

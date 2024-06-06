@@ -2019,7 +2019,17 @@ span:hover {
 }
 
 #e_commerce_link0 {
-    @include btnProject()
+    @include btnProject($color: rgb(0, 0, 0),$back: rgb(0, 249, 17))
+}
+
+#e_commerce_link8 {
+    @include btnProject($color: rgb(0, 0, 0),$back: aqua)
+}
+#e_commerce_link9 {
+    @include btnProject($color: rgb(0, 0, 0),$back: rgb(0, 249, 149))
+}
+#e_commerce_link10 {
+    @include btnProject($color: rgb(0, 0, 0),$back: rgba(0, 249, 149, 0.746))
 }
 
 #e_commerce_link1 {
